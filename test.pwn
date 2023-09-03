@@ -30,6 +30,8 @@ public OnPlayerConnect(playerid)
 {
 	// mysql_query(Database,"SELECT * FROM `mock_data` WHERE `gender`='male';",true);
 	SendClientMessage(playerid,-1,"Selamat Datang");
+	AddPlayerClass(299,1783.0275,-1896.6200,13.3915,270.9076,0,0,0,0,0,0); // 
+	AddPlayerClass(299,1786.4971,-1898.3458,13.3941,250.4994,0,0,0,0,0,0); // 
 	// for(new i; i != 50; i++)
 	// 	mysql_query(Database,"SELECT * FROM `mock_data` WHERE `gender`='male';",true);
 	return 1;
