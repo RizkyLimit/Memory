@@ -1,0 +1,13 @@
+{
+	"user": "RizkyLimit",
+	"repo": "Memory",
+	"tag": "0.0.1",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"pBlueG/SA-MP-MySQL:R41-4",
+		"maddinat0r/samp-discord-connector:v0.3.5"
+	],
+	"local": true
+}
